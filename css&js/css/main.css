@@ -1,0 +1,16 @@
+#map { 
+  height: 400px; 
+}
+
+.stat-card { 
+  border-left: 5px solid; 
+  padding: 10px; 
+}
+
+.stat-card.recovered { 
+  border-color: green; 
+}
+
+.stat-card.deaths { 
+  border-color: red; 
+}
